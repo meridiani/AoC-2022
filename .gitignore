@@ -1,0 +1,6 @@
+*.swp
+virtualenv
+__pycache__
+*.pyc
+
+scrap
